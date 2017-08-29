@@ -1,0 +1,16 @@
+.content__contact {
+    width: 70%;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.content__contact__wrap {
+    display: flex;
+    justify-content: space-around;
+}
+.content__contact__body {
+    padding-left: 5px;
+}
+.content__contact__con {
+    padding-top: 10px;
+    font-size: 2em;
+}

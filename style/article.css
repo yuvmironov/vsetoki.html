@@ -1,0 +1,27 @@
+.content__article {
+    width: 75%;
+    height: 100%;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.content__article_h {
+    font-size: 3em;
+    color: #5e79fe;
+    text-align: center;
+}
+.content__article_text {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    font-size: 1.3em;
+}
+.content__article_date {
+    font-size: 1.5em;
+}
+.content__article > span {
+    font-size: 1.4em;
+}
+.content__article_cat, .content__article_autor, .content__article_back {
+    font-size: 1.4em;
+    color: #00f;
+}

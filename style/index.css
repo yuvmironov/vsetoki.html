@@ -1,0 +1,26 @@
+.content__center {
+	width: 70%;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+.content__center-h {
+	font-size: 4em;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.content__center-p {
+	font-size: 1.3em;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.content__center__only {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.content__center__only div {
+	width: 20%;
+	text-align: center;
+	margin: 10px;
+	font-size: 1.5em;
+}

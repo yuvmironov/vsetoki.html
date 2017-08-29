@@ -1,0 +1,25 @@
+.content__abaut {
+    width: 70%;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.content__abaut_h {
+    font-size: 3em;
+    color: #5e79fe;
+    text-align: center;
+}
+.content__abaut_human {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom: 1px solid #000;
+    margin-top: 10px;
+}
+.content__abaut_text {
+    width: 50%;
+    font-size: 1.2em;
+}
+.content__abaut_text-fio {
+    font-size: 1.5em;
+}

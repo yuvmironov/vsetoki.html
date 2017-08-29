@@ -1,0 +1,60 @@
+#modal_zakaz {
+	display: none;
+	width: 600px;
+	height: 300px;
+	border: 2px solid #000;
+	border-radius: 20px;
+	background-color: rgba(213, 213, 213, 0.9);
+	position: fixed;
+	z-index: 100;
+	top: calc(50% - 150px);
+	left: calc(50% - 300px);
+}
+#modal_zakaz > span {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	font-size: 1.2em;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#modal_politica {
+	display: none;
+	width: 400px;
+	height: 600px;
+	border: 2px solid #000;
+	border-radius: 20px;
+	background-color: rgba(213, 213, 213, 0.9);
+	position: fixed;
+	z-index: 100;
+	top: calc(50% - 300px);
+	left: calc(50% - 200px);
+}
+#modal_politica > span {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	font-size: 1.2em;
+	text-decoration: underline;
+	cursor: pointer;
+}
+#modal_otziv {
+	display: none;
+	width: 400px;
+	height: 600px;
+	border: 2px solid #000;
+	border-radius: 20px;
+	background-color: rgba(213, 213, 213, 0.9);
+	position: fixed;
+	z-index: 100;
+	top: calc(50% - 300px);
+	left: calc(50% - 200px);
+}
+#modal_otziv > span {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	font-size: 1.2em;
+	text-decoration: underline;
+	cursor: pointer;

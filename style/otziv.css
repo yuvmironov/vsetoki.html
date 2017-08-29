@@ -1,0 +1,53 @@
+.content__otziv {
+    width: 70%;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.content__otziv_h {
+    font-size: 3em;
+    color: #5e79fe;
+    text-align: center;
+}
+.content__otziv_poes {
+    text-align: center;
+    color: #007fff;
+    font-size: 1.3em;
+}
+.content__otziv__wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.content__otziv__button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 10px;
+    width: 150px;
+    font-size: 1.5em;
+    text-align: center;
+    text-decoration: none;
+    background: linear-gradient(to bottom, #d4e4ef 0%,#86aecc 100%);
+    border-radius: 4px;
+    color: #000;
+}
+.content__otziv__button:hover {
+    background: linear-gradient(to bottom, #86aecc 0%, #d4e4ef 100%);
+}
+.content__otziv__body {
+    width: 28%;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+.content__otziv__body_mail {
+    font-size: 1.5em;
+}
+.content__otziv__body_name {
+    font-size: 1.3em;
+    color: #000;
+}
+.content__otziv__body_text {
+    font-size: 1.2em;
+}

@@ -1,0 +1,36 @@
+.content__tovar {
+    width: 75%;
+    font-size: 1.2em;
+}
+.content__tovar-h {
+    font-size: 3em;
+}
+.content__tovar-img {
+    float: right;
+    position: relative;
+    top: -35px;
+}
+.content__tovar > span {
+    font-size: 1.5em;
+    color: crimson;
+    margin-bottom: 10px;
+    clear: both;
+}
+.content__tovar-opis {
+    padding-top: 10px;
+}
+.content__tovar-opis > span {
+    font-size: 1.5em;
+}
+.content__tovar-har {
+    padding-top: 10px;
+}
+.content__tovar-har > span {
+    font-size: 1.5em;
+}
+.content__tovar-prim {
+    padding-top: 10px;
+}
+.content__tovar-prim > span {
+    font-size: 1.5em;
+}
